@@ -1,3 +1,5 @@
 class Sample{
-    public satatic c
+    public static void main(String[] args) {
+        System.out.println("hai jees");
+    }
 }
