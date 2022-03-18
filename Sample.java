@@ -1,3 +1,3 @@
 class Sample{
-    psvm
+    public satatic c
 }
